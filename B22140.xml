@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the erecting and maintaining of a garison at Newport-Pagnell in the county of Buckingham, to consist of 1200 souldiers for the safeguard of the associated counties of Bedford, Herford, Northampton, Huntington, Cambridge, Suffolke, Norfolke and Essex : together with directions for the raising of money for maintenance of the said garrison.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22140</idno><idno type="EEBO-CITATION">12110057</idno>
+  <idno type="VID">196934</idno>
+  <idno type="EEBO-PROQUEST">2248540740</idno>
+  
+            <idno type="STC">Wing E1974</idno>
+            <idno type="OCLC">12110057</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196934)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 241:E78, no 23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the erecting and maintaining of a garison at Newport-Pagnell in the county of Buckingham, to consist of 1200 souldiers for the safeguard of the associated counties of Bedford, Herford, Northampton, Huntington, Cambridge, Suffolke, Norfolke and Essex : together with directions for the raising of money for maintenance of the said garrison.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Partridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Newport Pagnell (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196934:1"/>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS Assembled in PARLIAMENT: For the erecting and maintaining of a Garison at <hi>Newport-Pagnell</hi> in the County of <hi>Buck<g ref="char:EOLhyphen"/>ingham,</hi> to consist of 1200. Souldiers for the safeguard of the Associated Counties of <hi>Bedford, Hertford, Northampton, Huntington, Cambridge, Suffolke, Norfolke,</hi> and <hi>Essex.</hi> Together with Directions for the raising of Money for the maintenance of the said Garrison.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>Die Lunae 18. Decemb. 1643.</date>
+                              </dateline>
+                           </opener>
+                           <p>ORdered by the Lords assembled in Parliament, That this Ordinance be forthwith printed and published.</p>
+                           <closer>
+                              <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>LONDON, Printed for <hi>John Partridge.</hi> 1643.</p>
+            <pb facs="tcp:196934:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:196934:2"/>
+            <head>
+               <hi>Lunae</hi> 18. <hi>Decemb.</hi> 1643.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons taking into their seri<g ref="char:EOLhyphen"/>ous considerations the great importance of the Towne of <hi>Newport-Pagnell</hi> in the County of <hi>Buckingham,</hi> to the safety of the Counties adjacent, and of all the Associated Counties under the command of the Earle of <hi>Manche<g ref="char:EOLhyphen"/>ster,</hi> doe Order and Ordain, That the said Town of <hi>Newport-Pagnell</hi> shall be strongly fortified, and furnished with all neces<g ref="char:EOLhyphen"/>sary provisions for a Garrison. And for defraying of the charges thereof, and maintenance of the Garison there, the said Lords and Commons do Ordain, and be it Ordained, That the Counties of <hi>Bedford, Hertford, Northampton, Cambridge,</hi> with the Isle of <hi>Ely, Suffolke, Norfolke,</hi> with the County and City of <hi>Norwich, Huntington,</hi> and <hi>Essex,</hi> and the three hun<g ref="char:EOLhyphen"/>dreds of <hi>Newport</hi> in the County of <hi>Buckingham,</hi> shall joyne in the charge of the said Garison and Fortifications, for the rai<g ref="char:EOLhyphen"/>sing of 1000 l. in manner following, &amp; according to the Pro<g ref="char:EOLhyphen"/>portions and Articles hereafter mentioned: That is to say,</p>
+            <list>
+               <item>In the County of <hi>Bedford</hi> 187. pounds ten shillings.</item>
+               <item>In the County of <hi>Herford</hi> 125. pounds.</item>
+               <item>In the County of <hi>Northampton</hi> 125. pounds.</item>
+               <item>In the County of <hi>Huntington</hi> 45. pounds.</item>
+               <item>In the County of <hi>Cambridge,</hi> with the Isle of <hi>Ely</hi> 80 pounds.</item>
+               <item>In the County of <hi>Suffolke</hi> 125 pounds.</item>
+               <item>In the County of <hi>Essex</hi> 125. pounds.</item>
+               <item>In the County of <hi>Norfolke,</hi> with the City and County of <hi>Norwich,</hi> 125. pounds.</item>
+               <item>And in the three Hundreds of <hi>Newport,</hi> 62 pounds 10 shil.</item>
+            </list>
+            <p>And it is Ordered and Ordained, That if the said Fortifi<g ref="char:EOLhyphen"/>cations shall arise to more then the said sum of 1000 l. That the same shall be raised in the Counties and Hundreds above said, according to the proportion aforesaid.</p>
+            <pb n="2" facs="tcp:196934:3"/>
+            <p>And the Lords and Commons doe Declare and Ordaine, That there shall be raised in all the said Counties and Hun<g ref="char:EOLhyphen"/>dreds, the monethly summe of 4000 pounds in manner fol<g ref="char:EOLhyphen"/>lowing: That is to say,</p>
+            <list>
+               <item>In the County of <hi>Bedford</hi> seven hundred and fifty pounds.</item>
+               <item>In the County of <hi>Hertford</hi> five hundred pounds.</item>
+               <item>In the County of <hi>Northampton</hi> five hundred pounds.</item>
+               <item>In the three Hundreds of <hi>Newport</hi> two hundred and fifty pounds.</item>
+               <item>In the County of <hi>Huntington</hi> one hundred and fourscore pounds.</item>
+               <item>In the County of <hi>Cambridge,</hi> with the Isle of <hi>Ely,</hi> three hun<g ref="char:EOLhyphen"/>dred and twenty pounds.</item>
+               <item>In the County of <hi>Suffolke</hi> five hundred pounds.</item>
+               <item>In the County of <hi>Norfolke,</hi> with the City and County of <hi>Norwich,</hi> five hundred pounds.</item>
+               <item>In the County of <hi>Essex</hi> five hundred pounds.</item>
+            </list>
+            <p>And it is also Ordained, That the first moneth shalbe accom<g ref="char:EOLhyphen"/>pted, from the first day of December 1643. last past, and so forwards, untill it shall be otherwise Ordered by the Lords and Commons in Parliament.</p>
+            <p>And it is Ordained by the Lords and Commons, That the County of <hi>Bedford</hi> shall within fourteen dayes next after the passing of this Ordinance, send into the said Garison two hundred twenty five able and armed men, for Souldiers: The County of <hi>Hertford</hi> one hundred and fifty: The County of <hi>Northampton</hi> one hundred and fifty: The three Hundreds of <hi>Newport</hi> seventy five: The County of <hi>Huntington</hi> forty five: The County of <hi>Cambridge,</hi> with the Isle of <hi>Ely</hi> one hundred and five: The County of <hi>Suffolke</hi> one hundred and fifty: The County of <hi>Essex</hi> one hundred and fifty: The County of <hi>Nor<g ref="char:EOLhyphen"/>folke,</hi> with the City and County of <hi>Norwich,</hi> one hundred and fifty like able men; all the said men so sent in, being one thou<g ref="char:EOLhyphen"/>sand
+<pb n="3" facs="tcp:196934:3"/> two hundred, to be put into one Regiment, under com<g ref="char:EOLhyphen"/>mand of such Governour and Officers as his Excellency shall appoint: and shall be from time to time recruted, for the keep<g ref="char:EOLhyphen"/>ing of the said Regiment full, out of the said respective Coun<g ref="char:EOLhyphen"/>ties, according to the Proportions before specified.</p>
+            <p>And it is further Ordained, That, aswell for the raising of the said monethly payment, as also the said moneys for Forti<g ref="char:EOLhyphen"/>fications, the Committees for the weekly Assessements in the Counties of <hi>Bedford, Buckingham, Hertford, Northampton, Hun<g ref="char:EOLhyphen"/>tington, Cambridge,</hi> with the Isle of <hi>Ely, Suffolke, Norfolke,</hi> with the City and County of <hi>Norwich,</hi> and <hi>Essex,</hi> already esta<g ref="char:EOLhyphen"/>blished by Parliament, or any two or more of the said Com<g ref="char:EOLhyphen"/>mittees respectively, shall, by vertue of this Ordinance, have power to levy and raise the aforesaid sums of moneys, aswell for the Fortifications, as for the maintenance of the said Gar<g ref="char:EOLhyphen"/>rison, for provision of Arms, Ammunition, and other incident charges, with the best equality they, or any two or more of them respectively can, upon each severall Parish, Towne-ship, or Place within the several Counties and Liberties, according to the rule of the weekly Assessement of the Parliaments Ar<g ref="char:EOLhyphen"/>my; and shall send forth their Warrants to the High Consta<g ref="char:EOLhyphen"/>bles, or such other persons as they, or any two or more of them respectively shall think fit, for the Rating, Assessing, and Collecting of the severall sums taxed or rated upon the said severall Parishes, Town-ships and Places: Which sums so Ra<g ref="char:EOLhyphen"/>ted and Taxed, to be raised by distresse and sale of the goods of all and singular such persons as shall refuse or delay, after lawfull demand, to pay their proportions so rated upon them, by Warrant under the hand of any two or more of the said Committees respectively. And if any person shall find himself grieved by any such Tax, That such person, upon complaint to the said Committees, or any two of them respectively, if they shall thinke fit, shall be relieved, in such sort as they, or any two of them respectively, shall finde reasonable: Provi<g ref="char:EOLhyphen"/>ded, that such complaint be made within six daies after notice of his said Tax: And if any person or persons within the said
+<pb n="4" facs="tcp:196934:4"/> respective Counties, which by vertue of this Ordinance shall be rated to pay any summe or summes of Money, shall obsti<g ref="char:EOLhyphen"/>nately refuse or delay to pay the same, &amp; if no goods of such person or persons can be found, whereby he may be distrey<g ref="char:EOLhyphen"/>ned for payment thereof, that then it shall be lawfull to, and for the said Committees, or any two, or more of ehem respe<g ref="char:EOLhyphen"/>ctively, to cause such person so refusing or delaying, to be im<g ref="char:EOLhyphen"/>prisoned, and there to be detayned and kept, untill he or they shall pay their said Rates and Taxes: And also that the said Committees, or any two of them respectively, shall cause the Estate of such person so refusing or delaying, to be forthwith sequestred, and the profits thereof to be taken and imployed for the use of the said Garison, untill they shall make payment of their said Rates and Taxes.</p>
+            <p>And it is further Ordained, That (the better to enable the said Committees respectively to raise the said several numbers of Souldiers for the said Garison) it shall be lawfull to and for the said Committees, or any two of them respectively; To send forth their Warrants to the Constables, or any other per<g ref="char:EOLhyphen"/>son or persons whom they shall thinke fit, to presse such able men as they shall see good for the said service, according to an Ordinance af both Houses of Parliament, Intituled, <hi>An Ordi<g ref="char:EOLhyphen"/>nance, &amp;c.</hi> All such persons so pressed, and refusing to serve, to be dealt withall according to the said Ordinance.</p>
+            <p>And it is further Ordained, That a Treasurer shall be cho<g ref="char:EOLhyphen"/>sen by the Committees of the severall Counties, or the major part of them, for the receiving and paying forth of the said moneys, who shall give his personall and constant attendance in the said Garison, upon the said Service, and for his paines therein, shall have the allowance of five shillings the day, he rendring account from time to time, to such Auditor or Audi<g ref="char:EOLhyphen"/>tors as the Committees of the said Counties respectively shall appoint.</p>
+            <p>And it is further Ordained and Declared, That the Com<g ref="char:EOLhyphen"/>mittees of the severall Counties aforementioned, shall choose one of the Committees of the severall Counties, or such other sufficient person as they shall approve of, to attend the Service
+<pb n="5" facs="tcp:196934:4"/> of the Garison of <hi>Newport Pagnell;</hi> which persons shall have power hereby to joyne in consultation with the Governour, for the benefit of the Garison, for the taking of the Muster of the Forces in the said Garison, issuing out of Warrants under five of their hands at the least to the Treasurer, for the paying of moneys, for requiring the proportions of men and moneys, from time to time, out of the severall Counties, for the Gar<g ref="char:EOLhyphen"/>rison, and for the taking of the Accompts of the Treasurer, when they shall be thereunto required by the Committees of the said respective Counties, or any two of them, for which their paines each of them shall receive daily five shillings out of the Treasury of their severall Counties, by Warrant under three of the Committees Hands at the least.</p>
+            <p>And it is further Ordained by the Lords and Commons That the Field Officers and Captaines, appertaining to the said Garison, shall keep up their Companies complete, as they shalbe appointed thereto by the consent of the aforesaid Counties, and shall make up their Recrutes of Armes out of the pay of the Officers and Souldiers of the Companies to the said Garison belonging; and if they faile a fifth part of the number of the Company, they shall abate a fifth part of their Captaines pay, if a fourth part, a fourth part of their pay, and so forward: And if they faile to make good their Recrutes of Armes upon the Muster, that the Committee of each County residing in the Garison, shall make stay of so much money, out of their pay, as shall make good the Recrutes of the said Com<g ref="char:EOLhyphen"/>panies with Armes. And likewise the said Governour of <hi>Newport</hi> for the time being, is hereby authorized to compe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l all the inhabitants of <hi>Newporo,</hi> able of body, within the Line to List themselves under Command, and do Duty in time of Siege, Alarum, and Assault onely: And the said Governour, and any three of the Committees of the said Garison of <hi>New<g ref="char:EOLhyphen"/>port,</hi> shall have power to charge the richer sort of Inhabitants with so many Arms for Arming the poorer sort, as they shall be of ability to provide; and if any disobey, Hee, and the fore<g ref="char:EOLhyphen"/>said Committees shall have power to put them &amp; their Fami<g ref="char:EOLhyphen"/>lies out of the Garison; and the Committees of the said Gari<g ref="char:EOLhyphen"/>son,
+<pb n="6" facs="tcp:196934:5"/> or any three of them, with the Governour for the time be<g ref="char:EOLhyphen"/>ing, are hereby Authorized to appoint a Major of the Town of <hi>Newport</hi> to receive and give Orders, and to command the Townsmen in time of Seige, Alarum, or Assault, for which he shall have allowed him nine shillings by the day.</p>
+            <p>And it is likewise Declared, That out of the foure thousand pound a moneth raised, as aforesaid, There shall be allotted the pay for three hundred Horse, with their Officers, during such time as they shall there continue for the safeguard of the Garison, and preservation of the Parts and Counties adja<g ref="char:EOLhyphen"/>cent; the said Horse to be such as his Excellency the Earle of <hi>ESSEX</hi> shall appoint.</p>
+            <p>And lastly, it is Ordained, That the Committees of the said Garison, or any three of them, shall once in fourteen dayes, at the least, by themselves, or such as they shall appoint, View and Muster all the Forces both of Horse and Foot belonging to the Garison, and see them duly paid.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
